@@ -1,0 +1,493 @@
+sudo pico /etc/default/grub
+sudo update-grub
+sudo reboot
+xterm
+sudo dpkg-reconfigure tzdata
+sudo apt install kali-linux-everything
+sudo reboot
+ls
+exit
+eterm
+xtterm
+bterm
+xterm
+ls
+chmod +x bosta2.py
+./bosta2.py
+pico bosta2.py
+./bosta2.py
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+sudo apt install --reinstall xfce*
+exit
+pico /etc/default/grub
+sudo pico /etc/default/grub
+sudo update-grub
+./bosta2.py
+sudo shutdown -r now
+lsb_release -a
+uname -a
+top
+gtop
+utop
+sudo apt install nvidia-driver
+sudo reboot
+sudo apt list --installed | grep plymouth-theme
+sudo apt install fail2ban glances htop baobab-y
+sudo apt install fail2ban glances htop baobab -y
+sudo nvidia-smi
+sudo systemctl --enable fail2ban
+sudo systemctl fail2ban enable
+sudo systemctl enable fail2ban
+sudo systemctl start fail2ban
+sudo apt install gufw
+ls
+./bosta2.py
+arp -a
+netstat -an
+htop
+sudo kill -9 6755
+sudo dpkg-configure
+sudo dpkg -configure
+cat ./bosta2.py
+sudo dpkg --configure -a
+sudo kill -9 7092
+sudo dpkg --configure -a
+sudo modeprobe --help
+sudo modprobe --help
+sudo modprobe nvidia
+sudo nvidia-smi
+sudo reboot
+sudo nvidia-smi
+sudo modprobe nvidia
+sudo apt install --reinstall kali-desktop-xfce kali-desktop-gnome
+sudo reboot
+exit
+sudo updatedb
+./bosta2.py
+sudo service postgresql status
+sudo systemctl enable postgresql
+sudo systemctl start postgresql
+msfconsole init
+msfdb init
+sudo msfdb init
+sudo msfconsole
+sudo wifite
+sudo airmon-ng stop wlan1
+iwconfig
+sudo airmon-ng stop wlan1
+iwconfig
+exit
+ifconfig
+iwconfig
+sudo routersploit
+iw
+iwconfig
+sudo lsusb
+sudo lsusb -v
+exit
+ifconfig\\
+
+exit
+ps -aux
+sudo passwd root
+comm
+comm --help
+df -h
+sudo baobab
+sudo gparted
+sudo apt install clonezilla
+sudo clonezilla
+exit
+python3 --version
+sudo apt install python3-pip
+sudo apt install python3-venv
+mkdir chatgpt
+cd chatgpt
+python3 -m venv chatgpt
+source chatgpt/bin/activate
+exit
+sudo wifite
+sudo apt install kali-archive-keyring kali-defaults
+sudo pico /etc/default/grub
+sudo apt install plymouth-theme-kali
+sudo update-alternatives --config plymouth-theme
+sudo update-alternatives --config plymouth-themes
+sudo apt install plymouth-themes
+sudo update-alternatives --config plymouth-themes
+sudo update-alternatives --config plymouth-theme
+sudo update-alternatives --config pl
+sudo apt install plymouth-themes
+sudo reboot
+
+sudo nvidia-smi
+sudo apt update && sudo apt upgrade -y
+sudo synaptics
+sudo sinaptycs
+sudo apt install synaptic
+./bosta2.py
+sudo synaptic
+exit
+cd Downloads
+ls
+cd Bitwig.Studio.v5.2.0.LiNUX-FLARE
+ls
+cd FLARE-1912
+ls
+dpkg -i bitwig-studio-5.2.deb
+sudo dpkg -i bitwig-studio-5.2.deb
+sudo apt install zlib1g libx11-xcb1 libx11-6 libxau6 libxdmcp6 libxrender1 libfontconfig1 libxcb-icccm4 libxcb-imdkit1
+apt --fix-broken install
+sudo apt --fix-broken install
+sudo apt install zlib1g libx11-xcb1 libx11-6 libxau6 libxdmcp6 libxrender1 libfontconfig1 libxcb-icccm4 libxcb-imdkit1
+sudo dpkg -i bitwig-studio-5.2.deb
+sudo apt install zlib1g libx11-xcb1 libx11-6 libxau6 libxdmcp6 libxrender1 libfontconfig1 libxcb-icccm4 libxcb-imdkit1 libxcb-util1 libxcb-shm0 libxcb-xinput0 libxkbcommon0 libxkbcommon-x11-0 libxcb-ewmh2 libpixman-1-0 libcairo2 
+sudo apt --fix-broken install
+sudo apt install zlib1g libx11-xcb1 libx11-6 libxau6 libxdmcp6 libxrender1 libfontconfig1 libxcb-icccm4 libxcb-imdkit1 libxcb-util1 libxcb-shm0 libxcb-xinput0 libxkbcommon0 libxkbcommon-x11-0 libxcb-ewmh2 libpixman-1-0 libcairo2 
+sudo dpkg -i bitwig-studio-5.2.deb
+sudo apt install zlib1g:i386 libx11-xcb1 libx11-6 libxau6 libxdmcp6 libxrender1 libfontconfig1 libxcb-icccm4 libxcb-imdkit1 libxcb-util1 libxcb-shm0 libxcb-xinput0 libxkbcommon0 libxkbcommon-x11-0 libxcb-ewmh2 libpixman-1-0 libcairo2 
+sudo apt --fix-broken install
+sudo apt install zlib1g:i386 libx11-xcb1 libx11-6 libxau6 libxdmcp6 libxrender1 libfontconfig1 libxcb-icccm4 libxcb-imdkit1 libxcb-util1 libxcb-shm0 libxcb-xinput0 libxkbcommon0 libxkbcommon-x11-0 libxcb-ewmh2 libpixman-1-0 libcairo2 
+sudo apt install zlib1g:i386
+sudo dpkg --add-architecture i386
+sudo apt install zlib1g:i386
+sudo apt update
+sudo apt install zlib1g:i386
+sudo dpkg -i bitwig-studio-5.2.deb
+sudo apt install libx11-xcb1:i386 libx11-6:i386 libxau6:i386 libxdmcp6:i386 libxrender1:i386 libfontconfig1:i386 libxcb-icccm4:i386 libxcb-imdkit1:i386 libxcb-util1:i386 libxcb-shm0:i386 libxcb-xinput0:i386 libxkbcommon0:i386 libxkbcommon-x11-0:i386 libpixman-1-0:i386 libcairo2:i386 
+sudo apt --fix-broken install
+sudo apt install libx11-xcb1:i386 libx11-6:i386 libxau6:i386 libxdmcp6:i386 libxrender1:i386 libfontconfig1:i386 libxcb-icccm4:i386 libxcb-imdkit1:i386 libxcb-util1:i386 libxcb-shm0:i386 libxcb-xinput0:i386 libxkbcommon0:i386 libxkbcommon-x11-0:i386 libpixman-1-0:i386 libcairo2:i386 
+sudo dpkg -i bitwig-studio-5.2.deb
+bitwig-studio
+ls
+cd FLARE
+ls
+sudo cp bitwig.jar /opt/bitwig-studio/bin
+bitwig-studio
+exit
+sudo apt update && sudo apt upgrade -y
+sudo modprobe nvidia -r
+sudo modprobe -r nvidia
+sudo nvidia-smi
+sudo reboot
+sudo modprobe -r nvidia
+sudo reboot4
+sudo nvidia-smi
+sudo modprobe -r nvidia
+sudo nvidia-smi
+./bosta2.py
+sudo reboot
+./bosta2.py
+exit
+sudo apt install android-sdk
+sudo apt install git
+git update
+git --help
+sudo synaptics
+sudo sinaptycs
+sudo synaptic
+sudo routersploit
+exit
+ifconfig\\
+
+ifconfig
+df -h
+sudo updatedb
+sudo apt install tor
+tor
+exit
+wget -qO- https://raw.githubusercontent.com/Sonarr/Sonarr/develop/distribution/debian/install.sh | sudo bash
+exit
+cat /etc/passwd
+exit
+cd Downloads
+ls
+dpkg -i plexmediaserver_1.41.3.9292-bc7397402_amd64.deb
+sudo dpkg -i plexmediaserver_1.41.3.9292-bc7397402_amd64.deb
+sudo systemctl enable plexmediaserver.service
+sudo systemctl restart plexmediaserver.service
+sudo systemctl status plexmediaserver.service
+exit
+sudo apt install torbrowser-launcher
+torbrowser-launcher
+sudo shutdown -h now
+sudo poweroff -i
+sudo systemctl poweroff -i
+sudo apt update && sudo apt upgrade -y
+./bosta2.py
+ls
+cd Bitwig\ Studio
+ls
+cd ..
+ls
+ls -lal
+sudo shutdown -r now
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+sudo apt install localepurge
+sudo apt update && sudo apt upgrade -y
+./bosta2.py
+sudo nvidia-smi
+exit
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+exit\\
+
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+exit
+sudo update-alternatives --config kali.plymouth
+sudo update-alternatives --config default.plymouth
+exit
+lsb_release -a
+uname -a
+sudo apt full-upgrade
+sudo apt update && sudo apt upgrade -y
+sudo reb
+sudo reboot
+./bosta2.py
+exit
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+sudo reboot
+cat /sys/class/power_supply/BAT0/status
+exit
+nautilus
+exit
+ls
+sudo systemctl enable ufw
+sudo gufw
+exit
+sudo iwconfig
+sudo wifite
+sudo wifite --kill
+ps aux
+exit
+cat ~/.zshrc
+ls
+Desktop
+..
+ls
+exit
+upower -enumerte
+upower -enumerate
+upower --enumerate
+upower -i
+upower -b
+upower /org/freedesktop/UPower/devices/battery_BAT0
+upower -i /org/freedesktop/UPower/devices/battery_BAT0
+exit
+sudo apt update && sudo apt upgrade -y
+./bosta2.py
+sudo reboot
+sudo apt install ardour
+ardour
+ulimit -l
+free
+calc
+sudo pico /etc/security/limits.conf
+ardour
+ulimit -l
+sudo pico /etc/security/limits.conf
+sudo reboot
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+sudo shutdown -h now
+locate RetroArch
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+mail
+rkhunter
+rkhunter --check
+sudo rkhunter --check
+sudo apt update && sudo apt upgrade -y
+exit
+sudo apt update
+sudo wget https://archive.kali.org/archive-keyring.gpg -O /usr/share/keyrings/kali-archive-keyring.gpg
+sudo apt update
+sudo apt update && sudo apt upgrade -y
+sudo reboot
+./bosta2.py
+sudo r
+sudo re
+sudo reboot
+./bosta2.py
+sudo reboot
+./bosta2.py
+exit
+chmod +x updater25.py
+./updater25.py
+ls
+mv updaterv2 updaterv2.py
+chmod +x updaterv2.py
+./updaterv2.py
+exit
+pico .\updater3.py
+la
+mv .updater3.py updater3.py
+ls
+chmod +x updater3.py
+./updater3.py
+pico .\updater3.py
+pico updater3.py
+./updater3.py
+sudo apt install spyder*
+spyder
+./updater3.py
+exit
+bash
+sudo apt install --reinstall kali-themes kali-themes-common kali-defaults kali-desktop-base
+sudo update-alternatives --config default.plymouth
+sudo update-alternatives --install /usr/share/plymouth/themes/default.plymouth default.plymouth /usr/share/plymouth/themes/kali/kali.plymouth 100\
+sudo update-alternatives --set default.plymouth /usr/share/plymouth/themes/kali/kali.plymouth
+sudo update-alternatives --config default.plymouth
+sudo update-initramfs -u
+sudo nano /etc/default/grub
+sudo update-grub
+sudo plymouth-set-default-theme -R kali
+sudo reboot
+baobab
+exit
+dconfi-editor
+pico ~/.Xresources
+pico ~/.Xdefaults
+sudo updatedb
+locate disable-wayland.conf
+sudo mv /usr/lib/systemd/system/gdm.service.d/disable-wayland.conf ..
+ls /usr/lib/systemd/system/gdm.service.d/
+ls /usr/lib/systemd/system/
+sudo updatedb
+locate disable-wayland.conf
+sudo reboot
+sudo wifite --kill
+sudo shutdown -h now
+ls
+./updater25.py
+sudo reboot
+ls -lal
+cat updater3.py
+cat updater25.py
+./updater25.py
+sudo modprobe -r nvidia
+sudo nvidia-smi
+sudo reboot
+sudo nvidia-smi
+./updater3.py
+mv .updater3.py updater_final.py
+mv .updater3.py .updater_final.py
+mv updater3.py updater_final.py
+ls
+rm bosta2.py
+ls
+rm updater25.py
+rm updaterv2.py
+ls
+rm Sonarr.main.4.0.11.2680.linux-x64.tar.gz
+sudo rm Sonarr.main.4.0.11.2680.linux-x64.tar.gz
+ls
+rm -r Bitwig\ Studio
+ls
+rm -r chatgpt
+ls
+ls defu
+ls Downloads
+cd Downloads
+rm *
+ls
+cd ..
+df -h
+ls
+sudo apt install kali-linux-all
+sudo apt install kali-linux-everything
+ls
+uname -a
+msfconsole init
+sudo service postgresql status
+msfconsole
+msfconsole init
+msfdb init
+sudo msfdb init
+sudo service postgresql restart
+msfconsole
+sudo -u postgres psql
+sudo service postgresql restart
+msfconsole
+sudo -u postgres psql
+sudo systemctl daemon-reload && sudo systemctl restart postgresql
+msfconsole
+routersploit
+sudo routersploit
+python -V
+sudo apt install --reinstall routersploit
+sudo routersploit
+exit
+sudo routersploit
+exit
+./updater_final.py
+df -h
+ls
+ls -lal
+ls -lalh
+ls -lalH
+ls -lalh
+df -h
+ls -lalh
+cp updater_final.py /media/marinho/Videos
+sudo cp updater_final.py /media/marinho/Videos
+ls -lalh
+sudo cp pwcast.img* /media/marinho/Videos
+ls-lal
+ls -lal
+df-h
+df -h
+ls -lalh
+exit
+dd if=/dev/sdc of=~/pwcast.img bs=4M status=progress
+sudo dd if=/dev/sdc of=~/pwcast.img bs=4M status=progress
+ls
+rm pwcast.img
+sudo rm pwcast.img
+sudo umount /dev/sdc
+sudo dd if=/dev/sdc of=~/pwcast.img bs=4M status=progress
+ls
+gzip pwcast.img
+exit
+df-h
+df -h
+ls -lalh /media/marinho/3463993E309EE8BA
+chown -h
+chown --jelp
+chown --help
+cd /media/marinho/3463993E309EE8BA
+ls
+ls -lslh
+sudo chown marinho:marinho pwcast.img
+ls -lslh
+ls -lalh
+exit
+sudo e2label /dev/sdd Marinho
+sudo dd if=/dev/sdc of=/media/marinho/3463993E309EE8BA/pwcast.img bs=4M status=progress
+cd /media/marinho/3463993E309EE8BA
+ls
+ls -lal
+ls -lalh\\
+
+gzip -h
+gzip -v -c pwcast.img > pwcast.img.gz
+umount /dev/sdd
+umount /dev/sdc
+umount /dev/sdd1
+sudo umount /dev/sdd1
+exit
+dd if=/dev/sdd of=/media/marinho/Marinho/imagem.img bs=4M status=progress
+cp updater_final.py /media/marinho/Marinho
+sudo dd if=/dev/sdd of=/media/marinho/Marinho/imagem.img bs=4M status=progress
+exit
+sudo wifite --kill
+sudo reboot
